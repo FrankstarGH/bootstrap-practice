@@ -1,0 +1,21 @@
+.first{
+	background:grey;
+	color:white;
+}
+
+.second, .third, .forth, .fifth, .sixth{
+	background:lightgrey;
+	color:black;
+	border-right: solid 1px grey;
+	border-bottom: solid 1px grey;
+	border-left: solid 1px grey;
+}
+
+.o{
+	background:orange;
+	color:white;
+	border-right: solid 1px grey;
+	border-bottom: solid 1px grey;
+	border-left: solid 1px grey;
+
+}
